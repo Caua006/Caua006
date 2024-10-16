@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindo(a) ao meu perfil
 
-<!--
-**Caua006/Caua006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Cauã
 
-Here are some ideas to get you started:
+- estou cursando no [alura](https://cursos.alura.com.br/dashboard)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você pode entrar em contato comigo:
+
+caua.jesus.cruz@escola.pr.gov.br
+
+@j.cauaz7x_
+
+
+![](![17290914310336895608786850425214](https://github.com/user-attachments/assets/636e4067-a611-4792-8e11-ce7157f64964)

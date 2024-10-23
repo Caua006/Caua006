@@ -3,8 +3,8 @@
 meu nome é Cauã
 
 - estou estudando no TIRADENTES
-- estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- tenho 15 anos 
+- essa é minha pasta de arquivos do p5.js(https://editor.p5js.org/)
 
 ## você pode entrar em contato comigo:
 

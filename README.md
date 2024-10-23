@@ -4,7 +4,7 @@ meu nome é Cauã
 
 - estou estudando no TIRADENTES
 - tenho 15 anos 
-- essa é minha pasta de arquivos do p5.js(https://editor.p5js.org/)
+- essa é minha pasta de arquivos do p5.js
 
 ## você pode entrar em contato comigo:
 

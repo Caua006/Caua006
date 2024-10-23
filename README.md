@@ -2,7 +2,7 @@
 
 meu nome é Cauã
 
-- estou cursando no [alura](https://cursos.alura.com.br/dashboard)
+- estou estudando no TIRADENTES
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
